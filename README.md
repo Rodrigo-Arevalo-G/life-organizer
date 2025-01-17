@@ -1,2 +1,3 @@
 # life-organizer
-Repositorio para tratar de seguir un camino en la vida
+Archivo de documentación para la carpeta life-organizer.
+Creado automáticamente.
